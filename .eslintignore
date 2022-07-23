@@ -1,0 +1,10 @@
+node_modules/*
+.storybook/*
+build/*
+chart/*
+docker/*
+public/*
+src/config/*
+src/stories/*
+src/*.d.ts
+serviceWorker.ts
